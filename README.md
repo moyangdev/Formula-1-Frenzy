@@ -39,14 +39,14 @@ THEN I am presented with the latest news for F1 and other current news
 ![F1 Formula Frenzy](./assets/images/webpage.png)
 
 ## Link
-A link to the [code](https://github.com/Sccr0123/Formula-1-Frenzy):
+A link to the [code](https://github.com/moyangdev/Formula-1-Frenzy):
 ```
-https://github.com/Sccr0123/Formula-1-Frenzy
+https://github.com/moyangdev/Formula-1-Frenzy
 ```
 
-A link to the deployed [URL](https://sccr0123.github.io/Formula-1-Frenzy/):
+A link to the deployed [URL](https://moyangdev.github.io/Formula-1-Frenzy/):
 ```
-https://sccr0123.github.io/Formula-1-Frenzy/
+https://moyangdev.github.io/Formula-1-Frenzy/
 ```
 
 ## Developers
